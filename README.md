@@ -1,11 +1,11 @@
-project no : 02
+<p> Project no:02 </P>
 <br>
-devolopers:
+TEAM MEMBERS:
 <br>
-apon
+2512131642 - Asifur Rahman Apon
 <br>
-lubna
+2512430642 - Kanij Fatema Lubna 
 <br>
-udoy
+2512062642 - S M Uday Haider
 <br>
-safin
+2511967642 - Safin Ahmed
