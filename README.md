@@ -1,1 +1,6 @@
-# Project-2-Tic-Tac-Toe
+project no : 02
+devolopers:
+apon
+lubna
+udoy
+safin
