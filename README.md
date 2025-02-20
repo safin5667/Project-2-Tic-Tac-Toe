@@ -1,4 +1,4 @@
-<p> Project no:02 </P>
+<p>Project no:02: Tic-Tac-Toe </P>
 <br>
 TEAM MEMBERS:
 <br>
