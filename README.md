@@ -1,6 +1,6 @@
 <P> Project No: 02 </P>
 
-<P> Tic-Tac-Toe Game in C </P>
+<P> Tic-Tac-Toe Game: A Console-based version using C Programming </P>
 <br>
 <P> Team Members: </P>
 <br>
