@@ -2,7 +2,7 @@
 
 #define SIZE 3
 
-char board[SIZE][SIZE]; // 2D board
+char board[SIZE][SIZE]; 
 
 void initializeBoard()
 {
